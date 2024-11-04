@@ -22,5 +22,4 @@ This project demonstrates proficiency in modern web design techniques and serves
 - **FontAwesome**: Icons for sidebar, playback controls, and other UI elements.
 - **Google Fonts**: Montserrat font for a modern and clean look.
 
-## Visit Site
-https://daulat68.github.io/SpotifyClone-htmlandcss-/
+
